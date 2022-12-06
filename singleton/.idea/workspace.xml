@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1cb870c-f2d9-4c2f-8f7d-5b0cb6069839" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoubleCheckLocking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EagerInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LazyInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThreadSafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1cb870c-f2d9-4c2f-8f7d-5b0cb6069839" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
