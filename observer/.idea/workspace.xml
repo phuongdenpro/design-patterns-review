@@ -2,15 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1acb2c5b-25c3-40f5-a86f-55f19225bff6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoginStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mailer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Protector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../state/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../state/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IYDU8WC2IXEcHHVBxNzyOyVdqW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

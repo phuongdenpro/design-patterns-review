@@ -1,0 +1,3 @@
+enum LoginStatus {
+    SUCCESS, FAILURE, INVALID, EXPIRED
+}
